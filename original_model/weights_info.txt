@@ -1,0 +1,4 @@
+Original weights not included due to size limits.
+Download them from:
+https://huggingface.co/PKUDigitalHealth/ECGFounder
+or place them under ../model_weights/
