@@ -1,0 +1,8 @@
+model_weights/
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+outputs/
+data/
+*.csv
+*.log
